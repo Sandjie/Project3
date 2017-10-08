@@ -21,6 +21,7 @@
     "body-parser": "^1.18.2",
     "express": "^4.15.4",
     "mysql2": "^1.4.2",
+    "react-datetime": "^2.10.3",
     "react-router-dom": "^4.2.2",
     "sequelize": "^4.13.5"
   }
